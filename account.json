@@ -1,0 +1,151 @@
+{
+    "1": {
+        "nome": "Federico",
+        "cognome": "Gatti",
+        "username": "Gattone4",
+        "hash_password": "97b84ec96fcd0f82b49fdf32b3415322027ca9b0",
+        "iban": "ITX5RH7CT2",
+        "saldo": 50,
+        "movimenti_in_entrata": {
+            "1": [
+                100,
+                "Bonifico"
+            ],
+            "2": [
+                200,
+                "Bonifico"
+            ]
+        },
+        "movimenti_in_uscita": {
+            "1": [
+                100,
+                "pagamento multa"
+            ],
+            "2": [
+                100,
+                "pagamento bolletta"
+            ],
+            "3": [
+                50,
+                "pagamento pos"
+            ]
+        }
+    },
+    "2": {
+        "nome": "Salvatore",
+        "cognome": "Branca",
+        "username": "salvo02",
+        "hash_password": "942d61864fe41660b39adf3c23d06f1a65984b42",
+        "iban": "IT27MAN3JD",
+        "saldo": 1760,
+        "movimenti_in_entrata": {
+            "1": [
+                100,
+                "Bonifico"
+            ],
+            "2": [
+                200,
+                "Bonifico"
+            ],
+            "3": [
+                2000,
+                "stipendio"
+            ]
+        },
+        "movimenti_in_uscita": {
+            "1": [
+                100,
+                "pagamento multa"
+            ],
+            "2": [
+                100,
+                "pagamento bolletta"
+            ],
+            "3": [
+                50,
+                "pagamento pos"
+            ],
+            "4": [
+                200,
+                "passaggio"
+            ],
+            "5": [
+                30,
+                "cena"
+            ],
+            "6": [
+                20,
+                "pranzo "
+            ],
+            "7": [
+                10,
+                "colazione"
+            ],
+            "8": [
+                15,
+                "biglietto cinema"
+            ],
+            "9": [
+                15,
+                "granita"
+            ]
+        }
+    },
+    "3": {
+        "nome": "Riccardo",
+        "cognome": "Calafiori",
+        "username": "ricky",
+        "hash_password": "3de8762d49a778edd8b1aa9f381ea5a9ccb62944",
+        "iban": "IT500OLDJA",
+        "saldo": 0,
+        "movimenti_in_entrata": {},
+        "movimenti_in_uscita": {}
+    },
+    "4": {
+        "nome": "Salvatore",
+        "cognome": "Saitta",
+        "username": "saitta02",
+        "hash_password": "fa44b0585eaec77a1eaaba6603fc4f06fcb94c14",
+        "iban": "ITJ9N4SHNS",
+        "saldo": 290,
+        "movimenti_in_entrata": {
+            "1": [
+                200,
+                "passaggio"
+            ],
+            "2": [
+                30,
+                "cena"
+            ],
+            "3": [
+                20,
+                "pranzo "
+            ],
+            "4": [
+                10,
+                "colazione"
+            ],
+            "5": [
+                15,
+                "biglietto cinema"
+            ],
+            "6": [
+                15,
+                "granita"
+            ]
+        },
+        "movimenti_in_uscita": {}
+    },
+    "5": {
+        "nome": "Michele",
+        "cognome": "Trombetta",
+        "username": "miky",
+        "hash_password": "cba710a87da80ed41a0934f100e3c5fc92d31d1b",
+        "iban": "ITJXSZEHPL",
+        "saldo": 0,
+        "movimenti_in_entrata": {},
+        "movimenti_in_uscita": {}
+    }
+    
+
+}
