@@ -23,13 +23,9 @@ def send_request(data):
     global client_socket
     if client_socket is None:
         raise RuntimeError("Socket non connessa")
-    start = time.time()
     client_socket.send(json.dumps(data).encode('utf-8'))   #invia la richiesta 
     print("Richiesta inviata correttamente al server.")
     response = client_socket.recv(1024).decode('utf-8')    #recupera la risposta del server
-    end = time.time()
-    execution_time= end -start
-    print("Tempo di esecuzione: ",execution_time," secondi")
     
     if not response:
         raise RuntimeError("Nessuna risposta dal server")
