@@ -1,2 +1,5 @@
 # PROGETTO-UFFICIALE-RETI-E-SISTEMI-DISTRIBUITI
-Applicazione client server di una filiale di banca
+Applicazione client server di una filiale di banca.
+
+NOTA: L'INDIRIZZO IP DEVE ESSERE SOSTITUITO CON L'INDIRIZZO IP REALE DEL SERVER IN ESECUZIONE . SIA NEL FILE SERVER.PY CHE NEL FILE CLIENT.PY  .
+INOLTRE VANNO CAMBIATE ANCHE LE DIRECTORTY DI PATH_JSON E PATH_IMMAGINE che sono rispettivamente le directory del file json e dell'immagine di sfondo dell'interfaccia.
